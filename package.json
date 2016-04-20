@@ -1,5 +1,5 @@
 {
-  "name": "firebase",
+  "name": "angularfirebase",
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
@@ -12,9 +12,14 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/albatrosary/firebase/issues"
   },
-  "homepage": "https://github.com/albatrosary/firebase#readme"
+  "homepage": "https://github.com/albatrosary/firebase#readme",
+  "dependencies": {
+    "angular": "^1.5.0",
+    "angularfire": "^1.2.0",
+    "firebase": "^2.4.2"
+  }
 }
